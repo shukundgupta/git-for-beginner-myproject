@@ -1,1 +1,4 @@
-Welcome to my project3
+Welcome to the "Git for Beginners" MyProject
+
+Author: Shukund Gupta
+Twitter: @shukundgupta
